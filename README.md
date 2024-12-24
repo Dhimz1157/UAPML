@@ -66,6 +66,7 @@ Follow these steps to set up and run the application on your local machine.
 ## Dataset 📂
 <p align="justify">
 The application uses a gender classification dataset for training the models. The dataset includes labeled images of males and females.
+   Dataset Source : https://www.kaggle.com/datasets/bwandowando/faces-dataset-using-stable-diffusion-v14
 </p>
 
 ---
