@@ -1,5 +1,5 @@
 
-# Gender Classification App
+# Gender Detection App
 
 ## About Our App 🌟
 <p align="justify">
@@ -43,7 +43,7 @@ Follow these steps to set up and run the application on your local machine.
 4. **Activate the virtual environment:**
    - On Windows:
      ```bash
-     myenv\scriptsctivate
+     myenv\scripts\ctivate
      ```
    - On MacOS/Linux:
      ```bash
@@ -90,7 +90,7 @@ Download the pre-trained models and place them in the same directory as `app.py`
 - [ResNet50V2 Model](#)
 - [VGG16 Model](#)
 
-*(Links to the models will be provided here)*
+*[(https://drive.google.com/drive/folders/1n49Dpaz11Urxrfy3-amug6_Nb72S3CQa?usp=drive_link)]*
 
 ---
 
